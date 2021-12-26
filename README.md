@@ -1,4 +1,4 @@
-# -ift-icraft-S3-FanMade-Pack
+# Çiftçicraft-S3-FanMade-Pack
 Atarikafa'nın Youtube Kanalının Serisi olan Çiftçicraft S3'ün Hayran Yapımı Yan Modpackidir.
 Şuan Ana Seri Çıkana Kadar Bu Pack İle Oynayabilirsiniz
 
